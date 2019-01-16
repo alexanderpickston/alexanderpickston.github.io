@@ -3,7 +3,7 @@ layout: post
 title:  "The Beginning"
 date:   2019-16-01 19:00:00 +0000
 categories: jekyll theme
-location: EMQLab, Edinburgh
+location: Edinburgh, Scotland
 ---
 
 Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
