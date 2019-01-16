@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Beginning"
-date:   2019-16-01 19:00:00 +0000
+date:   2019-01-15 19:00:00 +0000
 categories: jekyll theme
 location: Edinburgh, Scotland
 ---
